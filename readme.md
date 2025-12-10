@@ -3,6 +3,11 @@
 **Live Demo:**  
 https://sarakhandakar-ueaanoz7ptxgjqhxwromrc.streamlit.app/
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit)
+![Status](https://img.shields.io/badge/Deployment-Active-brightgreen)
+[![Open App](https://img.shields.io/badge/Launch_App-Streamlit-blue?logo=streamlit)](https://sarakhandakar-ueaanoz7ptxgjqhxwromrc.streamlit.app/)
+
 A Python + Streamlit app that simulates how daily student habits  
 (study hours, sleep, stress, screen time, and attendance) affect  
 academic performance and gamified XP levels.
@@ -46,4 +51,5 @@ The project includes:
 git clone https://github.com/YOUR_USERNAME/student-success-wellness-simulator.git
 
 cd student-success-wellness-simulator
+
 
