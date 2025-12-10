@@ -1,3 +1,6 @@
+**Live Demo:**  
+https://sarakhandakar-ueaanoz7ptxgjqhxwromrc.streamlit.app/
+
 # Student Success & Wellness Simulator 
 
 A Python + Streamlit app that simulates how daily student habits  
@@ -41,4 +44,5 @@ The project includes:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/student-success-wellness-simulator.git
+
 cd student-success-wellness-simulator
